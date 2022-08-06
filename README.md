@@ -1,5 +1,5 @@
 # Tasks
-##INSTANT AI Task 2##
+## INSTANT AI Task 2 ##
 1. Write a Python program to find those numbers which are divisible by 7 and multiple of 5, between 1500 and 2700 (both included).
 2. Write a Python program to convert temperatures to and from celsius, fahrenheit. [ Formula : c/5 = f-32/9 [ where c = temperature in celsius and f = temperature in fahrenheit ]
 3. Write a Python program to construct the following pattern, using a nested for loop.
